@@ -78,9 +78,7 @@ a {
     font-size: 1.1em;
     
 }
-.header_menucontainer-item-login a ::first-letter{
-    
-}
+
 .main{
     display: flex;
     flex-direction: column;
